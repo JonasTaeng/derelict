@@ -1,2 +1,2 @@
 # derelict
-Private game idea playground in Unity 
+Private game idea playground in Unity. Nothing special
